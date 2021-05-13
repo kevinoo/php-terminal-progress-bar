@@ -1,0 +1,24 @@
+{
+    "name": "kevinoo/terminal-progress-bar",
+    "description": "A simple progress bar used into a terminal to show the script progress",
+    "homepage": "https://github.com/kevinoo/php-terminal-progress-bar",
+    "keywords": ["terminal","bash","progress","bar"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Lucich",
+            "email": "lucichkevin@gmail.com",
+            "homepage": "https://www.lucichkevin.it",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "kevinoo\\TerminalProgress\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8"
+    }
+}

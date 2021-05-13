@@ -4,6 +4,7 @@
     "homepage": "https://github.com/kevinoo/php-terminal-progress-bar",
     "keywords": ["terminal","bash","progress","bar"],
     "type": "library",
+    "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
